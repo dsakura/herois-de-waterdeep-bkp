@@ -2,6 +2,8 @@
   "name": "herois-de-waterdeep",
   "title": "Heróis de Waterdeep",
   "description": "<p>Grupo Nervouser</p>",
+  "authors": [],
+  "flags": {},
   "version": "1.0.0",
   "minimumCoreVersion": "0.0.0",
   "compatibleCoreVersion": "1.0.0",
@@ -12,6 +14,7 @@
   "styles": [
     "templates/roll20-templates.css"
   ],
+  "languages": [],
   "packs": [
     {
       "label": "Cenas minhas",
@@ -20,7 +23,8 @@
       "path": "packs/cenas-minhas.db",
       "system": "dnd5e",
       "package": "world",
-      "absPath": "/home/ubuntu/.local/share/FoundryVTT/Data/worlds/herois-de-waterdeep/packs/cenas-minhas.db"
+      "absPath": "/home/ubuntu/.local/share/FoundryVTT/Data/worlds/herois-de-waterdeep/packs/cenas-minhas.db",
+      "private": false
     },
     {
       "label": "Lista de NPCs",
@@ -29,7 +33,8 @@
       "path": "packs/lista-de-npcs.db",
       "system": "dnd5e",
       "package": "world",
-      "absPath": "/home/ubuntu/.local/share/FoundryVTT/Data/worlds/herois-de-waterdeep/packs/lista-de-npcs.db"
+      "absPath": "/home/ubuntu/.local/share/FoundryVTT/Data/worlds/herois-de-waterdeep/packs/lista-de-npcs.db",
+      "private": false
     },
     {
       "label": "Monstros Proprios",
@@ -38,7 +43,8 @@
       "path": "packs/monstros-proprios.db",
       "system": "dnd5e",
       "package": "world",
-      "absPath": "/home/ubuntu/.local/share/FoundryVTT/Data/worlds/herois-de-waterdeep/packs/monstros-proprios.db"
+      "absPath": "/home/ubuntu/.local/share/FoundryVTT/Data/worlds/herois-de-waterdeep/packs/monstros-proprios.db",
+      "private": false
     },
     {
       "label": "Baldur",
@@ -47,7 +53,8 @@
       "path": "packs/baldur.db",
       "system": "dnd5e",
       "package": "world",
-      "absPath": "/home/ubuntu/.local/share/FoundryVTT/Data/worlds/herois-de-waterdeep/packs/baldur.db"
+      "absPath": "/home/ubuntu/.local/share/FoundryVTT/Data/worlds/herois-de-waterdeep/packs/baldur.db",
+      "private": false
     },
     {
       "label": "Floresta",
@@ -56,7 +63,8 @@
       "path": "packs/floresta.db",
       "system": "dnd5e",
       "package": "world",
-      "absPath": "/home/ubuntu/.local/share/FoundryVTT/Data/worlds/herois-de-waterdeep/packs/floresta.db"
+      "absPath": "/home/ubuntu/.local/share/FoundryVTT/Data/worlds/herois-de-waterdeep/packs/floresta.db",
+      "private": false
     },
     {
       "label": "Maritmo",
@@ -65,7 +73,8 @@
       "path": "packs/maritmo.db",
       "system": "dnd5e",
       "package": "world",
-      "absPath": "/home/ubuntu/.local/share/FoundryVTT/Data/worlds/herois-de-waterdeep/packs/maritmo.db"
+      "absPath": "/home/ubuntu/.local/share/FoundryVTT/Data/worlds/herois-de-waterdeep/packs/maritmo.db",
+      "private": false
     },
     {
       "label": "Waterdeep",
@@ -74,7 +83,8 @@
       "path": "packs/waterdeep.db",
       "system": "dnd5e",
       "package": "world",
-      "absPath": "/home/ubuntu/.local/share/FoundryVTT/Data/worlds/herois-de-waterdeep/packs/waterdeep.db"
+      "absPath": "/home/ubuntu/.local/share/FoundryVTT/Data/worlds/herois-de-waterdeep/packs/waterdeep.db",
+      "private": false
     },
     {
       "label": "Montanha",
@@ -83,7 +93,8 @@
       "path": "packs/montanha.db",
       "system": "dnd5e",
       "package": "world",
-      "absPath": "/home/ubuntu/.local/share/FoundryVTT/Data/worlds/herois-de-waterdeep/packs/montanha.db"
+      "absPath": "/home/ubuntu/.local/share/FoundryVTT/Data/worlds/herois-de-waterdeep/packs/montanha.db",
+      "private": false
     },
     {
       "label": "Planos",
@@ -92,7 +103,8 @@
       "path": "packs/planos.db",
       "system": "dnd5e",
       "package": "world",
-      "absPath": "/home/ubuntu/.local/share/FoundryVTT/Data/worlds/herois-de-waterdeep/packs/planos.db"
+      "absPath": "/home/ubuntu/.local/share/FoundryVTT/Data/worlds/herois-de-waterdeep/packs/planos.db",
+      "private": false
     },
     {
       "label": "Cael",
@@ -101,7 +113,8 @@
       "path": "packs/cael.db",
       "system": "dnd5e",
       "package": "world",
-      "absPath": "/home/ubuntu/.local/share/FoundryVTT/Data/worlds/herois-de-waterdeep/packs/cael.db"
+      "absPath": "/home/ubuntu/.local/share/FoundryVTT/Data/worlds/herois-de-waterdeep/packs/cael.db",
+      "private": false
     },
     {
       "label": "Edwin",
@@ -110,7 +123,8 @@
       "path": "packs/edwin.db",
       "system": "dnd5e",
       "package": "world",
-      "absPath": "/home/ubuntu/.local/share/FoundryVTT/Data/worlds/herois-de-waterdeep/packs/edwin.db"
+      "absPath": "/home/ubuntu/.local/share/FoundryVTT/Data/worlds/herois-de-waterdeep/packs/edwin.db",
+      "private": false
     },
     {
       "label": "ghelzor",
@@ -119,7 +133,8 @@
       "path": "packs/ghelzor.db",
       "system": "dnd5e",
       "package": "world",
-      "absPath": "/home/ubuntu/.local/share/FoundryVTT/Data/worlds/herois-de-waterdeep/packs/ghelzor.db"
+      "absPath": "/home/ubuntu/.local/share/FoundryVTT/Data/worlds/herois-de-waterdeep/packs/ghelzor.db",
+      "private": false
     },
     {
       "label": "Arca_Montanha",
@@ -128,7 +143,8 @@
       "path": "packs/arcamontanha.db",
       "system": "dnd5e",
       "package": "world",
-      "absPath": "/home/ubuntu/.local/share/FoundryVTT/Data/worlds/herois-de-waterdeep/packs/arcamontanha.db"
+      "absPath": "/home/ubuntu/.local/share/FoundryVTT/Data/worlds/herois-de-waterdeep/packs/arcamontanha.db",
+      "private": false
     },
     {
       "label": "Anauroch",
@@ -137,7 +153,8 @@
       "path": "packs/anauroch.db",
       "system": "dnd5e",
       "package": "world",
-      "absPath": "/home/ubuntu/.local/share/FoundryVTT/Data/worlds/herois-de-waterdeep/packs/anauroch.db"
+      "absPath": "/home/ubuntu/.local/share/FoundryVTT/Data/worlds/herois-de-waterdeep/packs/anauroch.db",
+      "private": false
     },
     {
       "label": "Personagens",
@@ -146,26 +163,17 @@
       "path": "packs/personagens.db",
       "system": "dnd5e",
       "package": "world",
-      "absPath": "/home/ubuntu/.local/share/FoundryVTT/Data/worlds/herois-de-waterdeep/packs/personagens.db"
+      "absPath": "/home/ubuntu/.local/share/FoundryVTT/Data/worlds/herois-de-waterdeep/packs/personagens.db",
+      "private": false
     }
   ],
-  "languages": [],
-  "authors": [],
-  "keywords": [],
-  "socket": false,
-  "url": "",
-  "manifest": "",
-  "download": "",
-  "license": "",
-  "readme": "",
-  "bugs": "",
-  "changelog": "",
-  "id": "herois-de-waterdeep",
   "system": "dnd5e",
-  "coreVersion": "0.7.10",
-  "systemVersion": "1.2.4",
-  "unavailable": false,
-  "availability": 0,
+  "dependencies": [],
+  "socket": false,
+  "protected": false,
   "background": "https://tavernadokaplan.files.wordpress.com/2015/06/waterdeep_nights_by_deusuum.jpg",
-  "nextSession": "2021-03-05T23:30:00.000Z"
+  "coreVersion": "0.8.8",
+  "nextSession": "2021-03-05T23:30:00.000Z",
+  "resetKeys": false,
+  "safeMode": false
 }

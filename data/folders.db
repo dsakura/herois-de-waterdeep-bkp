@@ -1,4 +1,5 @@
 {"_id":"0rZAqFyWx3JJoI39","name":"BB01 Wilderness Essentials","type":"RollTable","sort":100000,"flags":{"ddd-beginner-baubles":{"initialization-parent":"Beginner Baubles"}},"parent":"nuVrqXnx7SacrKz6","sorting":"a","color":"#1c8000"}
+{"name":"Mansion Furnished","type":"Scene","parent":"dDpizUG9iqmyrVS9","sorting":"a","sort":0,"color":"#000000","flags":{},"_id":"1j94nQooqew4BT4Y"}
 {"name":"Luskan","type":"JournalEntry","sort":15700000,"flags":{},"parent":null,"color":"#ff0000","_id":"2470Ht6LRbH4We9y"}
 {"_id":"3lB4RugzEL1eQHrL","name":"BB08 Esoteric Charms","type":"RollTable","sort":1000000,"flags":{"ddd-beginner-baubles":{"initialization-parent":"Beginner Baubles"}},"parent":"nuVrqXnx7SacrKz6","sorting":"a","color":"#6d00a8"}
 {"name":"Handout","type":"JournalEntry","sort":17700000,"flags":{},"parent":"zXbjOwuVbNhSwH56","sorting":"a","color":"","_id":"4e7BeAOw7xxdm66w"}
@@ -131,6 +132,7 @@
 {"_id":"agKLKFkb3WxRmcm7","name":"Getting Started","type":"JournalEntry","sort":1800000,"flags":{"ddd-beginner-baubles":{"initialization-parent":"Beginner Baubles"}},"parent":"xYgtOQf6VzQ5vvAa","sorting":"m","color":"#0a7208"}
 {"_id":"bcRa2rmRJWObTmbN","name":"Waterdeep","type":"Scene","sort":null,"flags":{},"parent":null,"color":"#0080c0"}
 {"name":"Beginner Baubles","type":"Item","sort":16400000,"flags":{},"parent":null,"sorting":"a","color":"#016b79","_id":"cWRjvnZeLQUNUCSA"}
+{"name":"Baileywiki Premium Scenes","type":"Scene","parent":null,"sorting":"a","sort":0,"flags":{},"_id":"dDpizUG9iqmyrVS9"}
 {"name":"Tural","type":"JournalEntry","sort":15100000,"flags":{},"parent":"NGFmY2Q5MmZkMGFk","color":"#ff0000","_id":"eNl4vgnEvjxMkq0l"}
 {"name":"Duplicates","type":"JournalEntry","sort":17500000,"flags":{},"parent":null,"sorting":"a","_id":"f6GZjw02Asu42fwk"}
 {"_id":"fa1ppk6ZduEug5he","name":"BB04 Religious Regalia","type":"RollTable","sort":400000,"flags":{"ddd-beginner-baubles":{"initialization-parent":"Beginner Baubles"}},"parent":"nuVrqXnx7SacrKz6","sorting":"a","color":"#5d798e"}
